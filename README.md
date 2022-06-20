@@ -2,7 +2,7 @@
  
 ### I'm huangyulie
  - Xi’an University of Posts & Telecommunications
- - I love WEB
+ - I love Web
  - This is my main programming language.
  - [github.io](https://huangyulie.github.io/)
  <div align="left">
