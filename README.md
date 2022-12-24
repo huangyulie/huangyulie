@@ -2,7 +2,7 @@
  
 ### I'm huangyulie(Don't want to review...)
  - Xi’an University of Posts & Telecommunications.
- - I love Web.
+ - I love Web.Try open source
  - This is my main programming language.
  - [github.io](https://huangyulie.github.io/).
  - 2022.12-present ByteDance Tomato Novels Front-end R&D Intern
