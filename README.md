@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=huangyulie&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-top: 21px;" />
  
-### I'm huangyulie(Don't want to review...)
+### I'm huangyulie(Junior)
  - Xi’an University of Posts & Telecommunications.
  - I love Web.Try open source
  - This is my main programming language.
