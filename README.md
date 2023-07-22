@@ -14,5 +14,19 @@
 
 ### My Github Contributions
 
+<br>
+<a href="#">
+<img height="27px" src="https://user-images.githubusercontent.com/41336612/118458463-5c9aeb00-b72d-11eb-947f-5a1f6a7f8b9e.png" />
+</a>
+<a href="https://github.com/Tencent/OMI">
+  <img alt="Tencent" width="22px" src="https://user-images.githubusercontent.com/41336612/118458817-b1d6fc80-b72d-11eb-8bcc-f4c995635ca3.png" />
+</a>
+
+<a href="https://github.com/arco-design/arco-design">
+  <img alt="arco-design" width="22px" src="https://avatars.githubusercontent.com/u/64576149?s=200&v=4" />
+</a>
+
+
+
 
 ![](https://raw.githubusercontent.com/huangyulie/huangyulie/main/assets/github-contribution-grid-snake.svg)
