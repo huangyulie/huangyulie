@@ -1,5 +1,4 @@
 ### I'm huangyulie(Junior)
- - Xi’an University of Posts & Telecommunications.
  - I love Web.Try open source
  - I am a student of university in grade 3
  - This is my main programming language.
