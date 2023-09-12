@@ -28,4 +28,7 @@
 
 
 
-![](https://raw.githubusercontent.com/huangyulie/huangyulie/main/assets/github-contribution-grid-snake.svg)
+### Github Activity Graph
+
+<img style="width: 900px;" src="https://github-readme-activity-graph.vercel.app/graph?username=huangyulie&theme=vue&bg_color=ffffff&point=009e24&hide_border=true&custom_title=Activity%20Graph" />
+
