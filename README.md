@@ -1,6 +1,5 @@
-### I'm huangyulie(Junior)
+### I'm huangyulie
  - I love Web.Try open source
- - I am a student of university in grade 4
  - This is my main programming language.
  - 2022.12-2023.5 ByteDance Tomato Novels Front-end R&D Intern
  - 2023.06-2023.10 Tencent cloud Front-end R&D Intern
